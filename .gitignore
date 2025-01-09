@@ -1,0 +1,72 @@
+# General OS and editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+target/
+
+# C++/C files
+*.o
+*.out
+*.exe
+*.dSYM/
+*.so
+*.dll
+*.a
+*.lib
+
+# Node.js (in case of frontend work)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Backup and temporary files
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Generated files
+*.pdf
+*.html
+*.json
+*.xml
+
+# Other files
+*.zip
+*.tar.gz
+*.rar
+*.7z
